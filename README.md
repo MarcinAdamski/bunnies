@@ -1,6 +1,9 @@
 bunnies
 =======
 
+Przykladowy kod napisany przez mnie.
+Marcin Adamski
+
 symulacja farmy krolikow z uzyciem kontenerow i watkow
 
 ZADANIE:
